@@ -1,11 +1,6 @@
 # PyMAiVAR
-Repository for pymaivar software suit.
 
-PyMAiVAR (Python Multimodal Audio-Image and Video Action Recognizer) is a Python package for multimodal action recognition. The package provides a CNN-based audio-image to video fusion model that leverages the representation process of Convolutional Neural Networks (CNNs) for incorporating image-based audio representations of actions in a task.
-
-License:
-
-PyMAiVAR is distributed under the GNU V3 GPL license. See the LICENSE file for more details.
+License: PyMAiVAR is distributed under the GNU V3 GPL license. See the LICENSE file for more details.
 
 
 ## Abstract

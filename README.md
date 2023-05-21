@@ -5,7 +5,7 @@ PyMAiVAR (Python Multimodal Audio-Image and Video Action Recognizer) is a Python
 
 License:
 
-PyMAiVAR is distributed under the Apache license. See the LICENSE file for more details.
+PyMAiVAR is distributed under the GNU V3 GPL license. See the LICENSE file for more details.
 
 
 ## Abstract

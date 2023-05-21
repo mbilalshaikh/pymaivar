@@ -1,0 +1,7 @@
+asttokens==2.2.1
+ffmpeg==1.4
+librosa==0.8.1
+matplotlib==3.4.1
+numpy==1.19.2
+sklearn=0.0.post4
+

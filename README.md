@@ -18,8 +18,6 @@ We present PyMAiVAR which is a toolbox preferable for generating audio-image rep
 
 	core --> core.md
 
-	utils --> utils.md
-
 > An example can be found in **example.py**
 
 ## Cite the following reference if you use the code implementation

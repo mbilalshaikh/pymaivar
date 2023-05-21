@@ -11,7 +11,6 @@ We present PyMAiVAR which is a toolbox preferable for generating audio-image rep
 
 	core: Core funtionality of pymaivar
 
-	utils: Utility functions
 
 ## Documentation
 

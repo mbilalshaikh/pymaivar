@@ -1,6 +1,6 @@
 # PyMAiVAR
 
-License: PyMAiVAR is distributed under the GNU V3 GPL license. See the LICENSE file for more details.
+License: PyMAiVAR is distributed under the GNU GPL V3 license. See the LICENSE file for more details.
 
 
 ## Abstract

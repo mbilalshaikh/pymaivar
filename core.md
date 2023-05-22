@@ -57,7 +57,7 @@ This code contains functions for audio feature visualization using the Librosa l
      - `audio` (str): The path to the audio file.
    - **Return:** This function generates a visualization of the scaled MFCCs. It computes its MFCCs, scales them, and plots them. The plot is then saved as a PNG file.
 
-**10. `gen_spec1(audio)`**
+**10. `gen_chrom(audio)`**
    - **Parameters:**
      - `audio` (str): The path to the audio file.
    - **Return:** This function generates a Chromagram. It computes its chromagram and plots it. The plot is then saved as a PNG file.

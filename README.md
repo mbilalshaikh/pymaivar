@@ -22,6 +22,8 @@ We present PyMAiVAR which is a toolbox preferable for generating audio-image rep
 	Documentation for each module is in their respective .md files
 
 	core --> core.md
+	example --> example.md
+	myutils --> myutils.md
 
 > An example can be found in **example.py**
 

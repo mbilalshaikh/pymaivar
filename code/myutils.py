@@ -1,12 +1,12 @@
+"""Utility functions."""
 import numpy as np
 import librosa
 
-# Utility functions
 
 
 def loadAudio(filePath, sampleRate=22050):
-    """Load audio sample
-
+    """Load audio sample.
+    
     Args:
         filePath (str): Path of the audio file
         sampleRate (int): Sampling rate

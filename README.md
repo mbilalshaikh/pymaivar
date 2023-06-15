@@ -1,7 +1,10 @@
 # PyMAiVAR
 
-License: PyMAiVAR is distributed under the GNU GPL V3 license. See the LICENSE file for more details.
-
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Open in Code Ocean](https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg)](https://codeocean.com/capsule/6797263/tree)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/mbilalshaikh/pymaivar/issues)
+[![python](https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 ## Abstract
 
@@ -27,11 +30,31 @@ We present PyMAiVAR which is a toolbox preferable for generating audio-image rep
 
 > An example can be found in **example.py**
 
+## Live Demo
+	
+[![Open in Code Ocean](https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg)](https://codeocean.com/capsule/6797263/tree)
+
+
+## Sample Outputs
+<img src="results/chrom-data.png"  width="300" height="200">  
+<img src="results/mfcc-data.png"  width="300" height="200">  
+<img src="results/mfccs-data.png"  width="300" height="200">  
+<img src="results/sc-data.png"  width="300" height="200">  
+<img src="results/specrolloff-data.png"  width="300" height="200">  
+<img src="results/specshow1-data.png"  width="300" height="200">  
+<img src="results/specshow2-data.png"  width="300" height="200">  
 
 
 ## Cite the following reference if you use the code implementation
-M. B. Shaikh, D. Chai, S. M. S. Islam and N. Akhtar, "MAiVAR: Multimodal Audio-Image and Video Action Recognizer," 2022 IEEE International Conference on Visual Communications and Image Processing (VCIP), Suzhou, China, 2022, pp. 1-5, doi: 10.1109/VCIP56404.2022.10008833.
-URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10008833&isnumber=10008793 
+
+	@INPROCEEDINGS{pymaivar2022shaikh,
+  		author={Shaikh, Muhammad Bilal and Chai, Douglas and Islam, Syed Mohammed Shamsul and Akhtar, Naveed},
+  		booktitle={2022 IEEE International Conference on Visual Communications and Image Processing (VCIP)}, 
+  		title={MAiVAR: Multimodal Audio-Image and Video Action Recognizer}, 
+  		year={2022},
+  		pages={1-5},
+  		doi={10.1109/VCIP56404.2022.10008833}}
+
 
 ## Acknowledgements
 This research is jointly supported by Edith Cowan University (ECU) and Higher Education Commission (HEC) of Pakistan under Project #PM/HRDI-UESTPs/UETs-I/Phase-1/Batch-VI/2018. Dr. Akhtar is a recipient of Office of National Intelligence National Intelligence Postdoctoral Grant # NIPG-2021–001 funded by the Australian Government.

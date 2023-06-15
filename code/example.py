@@ -1,9 +1,11 @@
-import core, myutils
-import glob as glob
+"""This code provides an example of all core functions available in this suit."""
+import core
+import myutils
+import glob
 
 
 if __name__ == "__main__":
-
+    """Main function to visualize audio features using the Librosa library."""
     audio_files = glob.glob("../data/*.wav")
     print(audio_files)
     audio = audio_files[0]

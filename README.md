@@ -1,4 +1,4 @@
-# PyMAiVAR
+# PyMAiVAR -  An open-source python suit for audio-image representation for human action recognition
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Open in Code Ocean](https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg)](https://codeocean.com/capsule/6797263/tree)

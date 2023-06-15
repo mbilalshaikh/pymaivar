@@ -30,6 +30,30 @@ We present PyMAiVAR which is a toolbox preferable for generating audio-image rep
 	core --> core.md
 	example --> example.md
 	myutils --> myutils.md
+	
+## Folder structure 
+	.gitignore
+	LICENSE.md
+	README.md
+	code
+	|-- core.md
+	|-- core.py
+	|-- example.md
+	|-- example.py
+	|-- myutils.md
+	|-- myutils.py
+	data
+	|-- sample.wav
+	requirements.txt
+	results
+	|-- chrom-data.png
+	|-- mfcc-data.png
+	|-- mfccs-data.png
+	|-- sc-data.png
+	|-- specrolloff-data.png
+	|-- specshow1-data.png
+	|-- specshow2-data.png
+	|-- wp-data.png
 
 > An example can be found in **example.py**
 

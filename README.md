@@ -14,7 +14,7 @@ We present PyMAiVAR which is a toolbox preferable for generating audio-image rep
 ## Compilation requirements, operating environments, and dependencies
 
 	ffmpeg, librosa, matplotlib, numpy, sklearn
-	python 3.8
+	python 3.9
 
 ## Modules
 

@@ -9,7 +9,7 @@
 
 ## Abstract
 
-We present PyMAiVAR which is a toolbox preferable for generating audio-image representations that incorporates for human actions information. The Spectral Centroid feature, which is widely used for music genre identification and audio classification, inspired our feature methodology. The representation’s performance is evaluated for multimodal human action recognition and is comparable to other representations and other unimodal approaches on the same dataset. We also present few other use case of the toolbox for generating image-based representations.  PyMAiVAR can be a valuable tool for researchers in the field of multimodal action recognition, providing enhanced performance by leveraging multiple modalities. The package is implemented in Python and can be used across different operating systems. 
+We introduce PyMAiVAR, a preferred toolbox for creating audio-image representations, integrating information about human actions. Our approach to features was inspired by the Spectral Centroid feature, often used for music genre identification and audio classification. The effectiveness of this representation is assessed in the context of multimodal human action recognition, and is found to be on par with other representations and single-modality approaches using the same dataset. We also illustrate additional applications of the toolbox for creating image-based representations. As a tool, PyMAiVAR holds significant value for researchers specializing in multimodal action recognition, as it can enhance performance by harnessing multiple modalities. PyMAiVAR is implemented in Python and is compatible with various operating systems.
 
 ## Compilation requirements, operating environments, and dependencies
 
